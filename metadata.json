@@ -1,0 +1,6 @@
+{
+  "name": "SmartMenu",
+  "description": "AI-powered digital menu SaaS platform for restaurants, contactless QR dining, and intelligent menu management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
