@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+  <defs>
+    <linearGradient id="smartmenu-teal-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2dd4bf" />
+      <stop offset="100%" stop-color="#0f766e" />
+    </linearGradient>
+  </defs>
+
+  <!-- Squircle Background with Teal Gradient (Tailwind: rounded-lg bg-gradient-to-br from-teal-400 to-teal-700) -->
+  <rect 
+    x="2" 
+    y="2" 
+    width="60" 
+    height="60" 
+    rx="15" 
+    fill="url(#smartmenu-teal-grad)" 
+  />
+
+  <!-- UtensilsCrossed Icon (Lucide Icon, stroke-[2.2], text-slate-950: #020617) -->
+  <g transform="translate(16, 16) scale(1.3333)" stroke="#020617" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="m16 2-2.3 2.3a3 3 0 0 0 0 4.2l1.8 1.8a3 3 0 0 0 4.2 0L22 8" />
+    <path d="M15 15 3.3 3.3a4.2 4.2 0 0 0 0 6l7.3 7.3c.7.7 2 .7 2.8 0L15 15Zm0 0 7 7" />
+    <path d="m2.1 21.8 6.4-6.3" />
+    <path d="m19 5-7 7" />
+  </g>
+</svg>
