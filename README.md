@@ -10,19 +10,20 @@ Built for the HackIndia AI-First Startup Hackathon 2026.
 
 # 📌 Table of Contents
 
-- "Overview" (#-overview)
-- "Problem Statement" (#-problem-statement)
-- "Our Solution" (#-our-solution)
-- "Key Features" (#-key-features)
-- "How It Works" (#-how-it-works)
-- "Technology Stack" (#-technology-stack)
-- "AI Usage" (#-ai-usage)
-- "Security" (#-security)
-- "Getting Started" (#-getting-started)
-- "Project Status" (#-project-status)
-- "Future Scope" (#-future-scope)
-- "Team" (#-team)
-
+- [Overview](#overview)
+- [Problem Statement](#problem-statement)
+- [Our Solution](#our-solution)
+- [Key Features](#key-features)
+- [How It Works](#how-it-works)
+- [Technology Stack](#technology-stack)
+- [AI Usage](#ai-usage)
+- [Security](#security)
+- [Getting Started](#getting-started)
+- [Project Status](#project-status)
+- [Future Scope](#future-scope)
+- [Team](#team)
+- [Project Documents](#project-documents)
+  
 ---
 
 # 🌟 Overview
@@ -33,7 +34,7 @@ The platform provides restaurant owners with tools to manage dishes, categories,
 
 SmartMenu is designed as a SaaS product that can support multiple restaurants rather than serving only one restaurant.
 
-#❗ Problem Statement
+# ❗ Problem Statement
 
 Traditional restaurant menus can present several challenges:
 
@@ -42,7 +43,7 @@ Traditional restaurant menus can present several challenges:
 - Customers need an easy way to discover and explore dishes.
 - Restaurant owners need a centralized way to manage digital menu information.
 
-#💡 Our Solution
+# 💡 Our Solution
 
 SmartMenu provides a centralized digital menu management platform.
 
@@ -140,6 +141,15 @@ Use environment variables for configuration and follow the instructions in the p
 
 ---
 
+# 📄 Project Documents
+
+The following documents are available in the [docs/](docs/) folder:
+
+- [AI Usage Report](docs/AI-Usage-Report.pdf) — Documents the AI tools used during development, their applications, and our development workflow.
+- [SmartMenu Pitch Deck](docs/SmartMenu-Pitch-Deck.pdf) — Presents the problem, solution, key features, technology, business model, and future scope of SmartMenu.
+
+---
+
 # 🚀 Getting Started
 
 Prerequisites
@@ -155,25 +165,25 @@ Installation
 
 1. Clone this repository:
    
-   git clone YOUR_REPOSITORY_URL
+   `git clone YOUR_REPOSITORY_URL`
 
 2. Enter the project directory:
    
-   cd YOUR_PROJECT_FOLDER
+   `cd YOUR_PROJECT_FOLDER`
 
 3. Install dependencies:
    
-   npm install
+   `npm install`
 
 4. Configure the required environment variables using the project's environment example file, if available.
 
 5. Start the development server:
    
-   npm run dev
+   `npm run dev`
 
 6. Open the local address shown in your terminal.
 
-Note: These are standard steps for a Node.js/npm-based application. Confirm the actual scripts and configuration in "package.json" before running the project. The application may require additional setup depending on its final source code.
+Note: These are standard steps for a Node.js/npm-based application. Confirm the actual scripts and configuration in [package.json] before running the project. The application may require additional setup depending on its final source code.
 
 ---
 
@@ -208,10 +218,10 @@ Project: SmartMenu
 Event: HackIndia AI-First Startup Hackathon 2026
 Project Category: AI-First Startup / SaaS
 
-Built collaboratively by the SmartMenu team.
+Built collaboratively by the team **404 Founders**.
 
 ---
 
 # 📄 License
 
-See the "LICENSE" (LICENSE) file for the project's licensing terms.
+See the [LICENSE](LICENSE) file for the project's licensing terms.
