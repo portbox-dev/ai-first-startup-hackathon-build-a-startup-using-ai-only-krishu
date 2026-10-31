@@ -51,6 +51,11 @@ Restaurant owners manage their menus through a web dashboard and provide custome
 
 The platform combines menu management, customer browsing, and menu engagement insights in one solution.
 
+## Live Application URL
+
+https://smartmenu-webapp.ai.studio/
+
+
 # ✨ Key Features
 
 ## 🏪 Restaurant Dashboard
